@@ -4,7 +4,6 @@
 - Member 1 (Toluwalope Adeboye)
 - Member 2 (Tordue Ralph Wuave)
 - Member 3 (Kenneth Ifeanyi Okonya)
-- Member 4 (Ginko Biloba)
 
 ## Description
 A command-line tool to track income and expenses, set budgets, and generate spending reports.
