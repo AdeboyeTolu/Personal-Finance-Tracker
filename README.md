@@ -1,9 +1,9 @@
 # Project 2: Personal Finance Tracker
 
 ## Team Members
-- Member 1 (Name)
-- Member 2 (Name)
-- Member 3 (Name)
+- Member 1 (Toluwalope Adeboye)
+- Member 2 (Tordue Ralph Wuave)
+- Member 3 (Kenneth Ifeanyi Okonya)
 
 ## Description
 A command-line tool to track income and expenses, set budgets, and generate spending reports.
