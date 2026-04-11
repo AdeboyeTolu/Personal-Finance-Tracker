@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2026-04-10",
+        "amount": 500.5,
+        "category": "Salary",
+        "description": "Freelance work",
+        "trans_type": "income"
+    },
+    {
+        "date": "2026-04-10",
+        "amount": 500.5,
+        "category": "Salary",
+        "description": "Freelance work",
+        "trans_type": "income"
+    },
+    {
+        "date": "2026-04-10",
+        "amount": 50.0,
+        "category": "Food",
+        "description": "Groceries",
+        "trans_type": "expense"
+    },
+    {
+        "date": "2026-04-10",
+        "amount": 100.0,
+        "category": "Travel",
+        "description": "Trip to Morocco",
+        "trans_type": "expense"
+    },
+    {
+        "date": "2026-03-01",
+        "amount": 5000.0,
+        "category": "Travel",
+        "description": "Southeast Asia trip",
+        "trans_type": "expense"
+    },
+    {
+        "date": "2026-04-11",
+        "amount": 200.5,
+        "category": "Black Tax",
+        "description": "Community infrastructure repairs",
+        "trans_type": "expense"
+    }
+]
